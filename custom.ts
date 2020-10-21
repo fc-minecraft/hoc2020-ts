@@ -53,7 +53,7 @@ namespace hoc2020 {
      * Agent Place Fence
      */
     //% block="place fence"
-    export function buildFence(): void{
+    export function buildFence() {
         agent.move(FORWARD, 1);
     }
 
