@@ -6,15 +6,15 @@ namespace hoc2020 {
      */
     //% block="flip lever"
     export function flipLever() {
-        agent.interact(FORWARD);
+        agent.interact(FORWARD)
     }
 
     /**
-     * Agent Place Fence
+     * Agent Interact Forward
      */
-    //% block="place fence"
+    //% block="flip lever 2"
     export function buildFence() {
-        agent.move(FORWARD, 1);
+        agent.interact(FORWARD)
     }
 
 }
