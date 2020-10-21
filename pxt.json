@@ -1,6 +1,6 @@
 {
     "name": "hoc2020-ts",
-    "version": "0.1.6",
+    "version": "0.1.7",
     "description": "",
     "dependencies": {
         "core": "*",
