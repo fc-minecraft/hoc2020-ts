@@ -9,4 +9,12 @@ namespace hoc2020 {
         agent.interact(FORWARD)
     }
 
+    /**
+     * Agent Interact Forward
+     */
+    //% block="flip lever2"
+    export function flipLever2() {
+        agent.interact(FORWARD)
+    }    
+
 }
