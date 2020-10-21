@@ -53,17 +53,15 @@ namespace hoc2020 {
      * Agent Place Fence
      */
     //% block="place fence"
-    export function buildFence(block: fenceChooser, d: Direction, n: number): void{
+    export function buildFence(block: fenceChooser, n: number): void{
         for (let i = 0; i < n; i++){
-            const direction = directions[d];
 
-            agent.move(direction, 1);
+            agent.move(FORWARD, 1);
             agent.setItem(block, 1, 1)
             agent.setSlot(1)
             
             agent.place(BACK);
         }
-
     }
 
 }
