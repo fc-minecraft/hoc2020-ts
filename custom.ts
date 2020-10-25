@@ -50,18 +50,12 @@ namespace hoc2020 {
     /**
      * Agent place soil
      */
-    //% block="prepare soil and move %n times"
-    export function tillSoil(n: number): void{
-        for (let i = 0; i < n; i++){
-            agent.destroy(DOWN)
+    //% block="till soil below"
+    export function tillSoil() {
+        player.execute(
+            "execute @c ~ ~ ~ detect ~ ~-1 ~ dirt 0 setblock ~ ~-1 ~ farmland"
+        )
 
-            agent.setItem(DIRT, 1, 1)
-            agent.place(DOWN)
-
-            agent.move(FORWARD, 1)
-
-            agent.till(BACK)
-        }
     }      
     /**
      * Agent place wood down
@@ -80,15 +74,10 @@ namespace hoc2020 {
     /**
      * Agent place rail down
      */
-    //% block="place rail and move %n times"
-    export function placeRails(n: number): void{
-
-        for (let i = 0; i < n; i++){
-            agent.setItem(RAIL, 1, 1)
-            agent.place(DOWN)
-
-            agent.move(FORWARD, 1)
-        }        
+    //% block="place rail below"
+    export function placeRails(){
+        agent.setItem(RAIL, 1, 1)
+        agent.place(DOWN)
     }        
 
     /**
