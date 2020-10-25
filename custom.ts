@@ -27,7 +27,7 @@ const turns = [
     RIGHT_TURN
 ]
 
-//%  block="HOC 2020" weight=200 color=#00a513
+//%  block="HOC 2020" weight=200 color=#d83b01
 namespace hoc2020 {
 
     /**
