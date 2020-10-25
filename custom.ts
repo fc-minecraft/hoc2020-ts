@@ -7,7 +7,11 @@ enum Direction {
     //% block="left"
     Left,
     //% block="right"
-    Right
+    Right,
+    //% block="up"
+    Up,
+    //% block="down"
+    Down 
 }
 
 // global variables
@@ -37,16 +41,10 @@ namespace hoc2020 {
     /**
      * Agent Place Fence
      */
-    //% block="move and place fence %n times"
-    export function buildFence(n: number): void{
-        for (let i = 0; i < n; i++){
-
-            agent.move(FORWARD, 1)
-            agent.setItem(OAK_FENCE, 1, 1)
-            agent.setSlot(1)
-            
-            agent.place(BACK)
-        }
+    //% block="place fence behind"
+    export function placeFence() {
+        agent.setItem(OAK_FENCE, 1, 1)
+        agent.place(BACK)
     }   
 
     /**
