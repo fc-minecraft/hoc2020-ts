@@ -1,6 +1,6 @@
 {
     "name": "hoc2020-ts",
-    "version": "0.2.4",
+    "version": "0.2.5",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -14,7 +14,7 @@
     "testFiles": [],
     "public": true,
     "targetVersions": {
-        "target": "1.5.45",
+        "target": "1.5.46",
         "targetId": "minecraft"
     },
     "supportedTargets": [
