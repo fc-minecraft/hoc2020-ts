@@ -61,6 +61,7 @@ namespace hoc2020 {
      * Agent place wood down
      */
     //% block="move and place wood %n times"
+    //% n.defl=1 
     export function placePlanks(n: number): void{
 
         for (let i = 0; i < n; i++){
@@ -84,6 +85,7 @@ namespace hoc2020 {
      * Agent move forward with pause
      */
     //% block="lead ravager %n forward"
+    //% n.defl=1 
     export function leadRavager(n: number): void{
 
         for (let i = 0; i < n; i++){
@@ -96,6 +98,7 @@ namespace hoc2020 {
      * Agent move
      */
     //% block="agent move %d by %n"
+    //% n.defl=1 
     export function moveAgent(d: Direction, n: number): void{
 
         for (let i = 0; i < n; i++){
@@ -110,6 +113,7 @@ namespace hoc2020 {
      * Agent move up
      */
     //% block="agent climb %n up"
+    //% n.defl=1 
     export function agentClimb(n: number): void{
 
         for (let i = 0; i < n; i++){
