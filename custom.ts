@@ -1,19 +1,3 @@
-// enums
-enum Direction {
-    //% block="forward"
-    Forward,
-    //% block="back"
-    Back,
-    //% block="left"
-    Left,
-    //% block="right"
-    Right,
-    //% block="up"
-    Up,
-    //% block="down"
-    Down 
-}
-
 // global variables
 const directions = [
     FORWARD,
@@ -104,9 +88,9 @@ namespace hoc2020 {
     /**
      * Agent move
      */
-    //% block="agent move %d by %n"
+    //% block="agent2 move %d by %n"
     //% n.defl=1 
-    export function moveAgent(d: Direction, n: number): void{
+    export function moveAgent(d: SixDirection, n: number): void{
 
         for (let i = 0; i < n; i++){
 
