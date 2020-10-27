@@ -19,7 +19,9 @@ const directions = [
     FORWARD,
     BACK,
     LEFT,
-    RIGHT
+    RIGHT,
+    UP,
+    DOWN
 ];
 
 const turns = [
