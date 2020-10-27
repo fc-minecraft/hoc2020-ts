@@ -52,13 +52,18 @@ namespace hoc2020 {
     /**
      * Agent place soil
      */
-    //% block="till soil below"
-    export function tillSoil() {
-        player.execute(
-            "execute @c ~ ~ ~ detect ~ ~-1 ~ dirt 0 setblock ~ ~-1 ~ farmland"
-        )
-
-    }      
+    //% block="till and move forward %n times"
+    //% n.defl=1 
+    export function tillSoil(n: number): void{
+        for (let i = 0; i < n; i++){
+            agent.till(UP)
+            player.execute(
+                "execute @c ~ ~ ~ detect ~ ~-1 ~ dirt 0 setblock ~ ~-1 ~ farmland"
+            )
+            agent.move(FORWARD,1)
+        }        
+    }         
+    
     /**
      * Agent place wood down
      */
