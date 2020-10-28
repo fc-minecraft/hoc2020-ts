@@ -42,7 +42,7 @@ namespace hoc2020 {
         for (let i = 0; i < n; i++){
             agent.till(UP)
             player.execute(
-                "execute @c ~ ~ ~ detect ~ ~-1 ~ dirt 0 setblock ~ ~-1 ~ farmland"
+                "execute @c ~ ~ ~ detect ~ ~-1 ~ dirt 0 setblock ~ ~-1 ~ farmland 2"
             )
             agent.move(FORWARD,1)
         }        
@@ -88,7 +88,7 @@ namespace hoc2020 {
     /**
      * Agent move
      */
-    //% block="agent2 move %d by %n"
+    //% block="agent move %d by %n"
     //% n.defl=1 
     export function moveAgent(d: SixDirection, n: number): void{
 
@@ -113,7 +113,7 @@ namespace hoc2020 {
     }                         
 
     /**
-     * Give player sappling
+     * Give player sapling
      */
     //% block="accept gift"
     export function acceptGift(){
