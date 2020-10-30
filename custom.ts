@@ -81,7 +81,7 @@ namespace hoc2020 {
 
         for (let i = 0; i < n; i++){
             agent.move(FORWARD,1)
-            loops.pause(500)
+            //loops.pause(200)
         }        
     }    
 
@@ -125,7 +125,7 @@ namespace hoc2020 {
     }  
 
     /**
-     * Give player sappling
+     * Give player sapling
      */
     //% block="turn agent %t"
     export function turnAgent(t: TurnDirection): void{
