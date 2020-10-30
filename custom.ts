@@ -25,12 +25,12 @@ namespace hoc2020 {
     }
 
     /**
-     * Agent Place Fence
+     * Agent Place Iron Bars
      */
-    //% block="place fence behind"
+    //% block="place iron bars down"
     export function placeFence() {
-        agent.setItem(OAK_FENCE, 1, 1)
-        agent.place(BACK)
+        agent.setItem(IRON_BARS, 1, 1)
+        agent.place(DOWN)
     }   
 
     /**

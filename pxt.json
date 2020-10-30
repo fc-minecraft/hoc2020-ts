@@ -14,7 +14,7 @@
     "testFiles": [],
     "public": true,
     "targetVersions": {
-        "target": "1.5.47",
+        "target": "1.5.49",
         "targetId": "minecraft"
     },
     "supportedTargets": [
