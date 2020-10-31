@@ -133,5 +133,17 @@ namespace hoc2020 {
 
         agent.turn(turn);
     }      
-
+    /**
+     * Custom repeat loop so we could define
+     * default value
+     */
+    //% block="repeat $n times"
+    //% n.defl=2
+    //% handlerStatement=1
+    //% draggableParameters="reporter"
+    export function customRepeatLoop(n: number, handler: () => void) {
+        for (let i = 0; i < n; i++){
+            handler();
+        }
+    }
 }

@@ -9,12 +9,13 @@
     "files": [
         "README.md",
         "custom.ts",
-        "tutorial-info-cache.json"
+        "tutorial-info-cache.json",
+        "main.py"
     ],
     "testFiles": [],
     "public": true,
     "targetVersions": {
-        "target": "1.5.49",
+        "target": "1.5.50",
         "targetId": "minecraft"
     },
     "supportedTargets": [
