@@ -115,7 +115,7 @@ namespace hoc2020 {
     /**
      * Give player sapling
      */
-    //% block="spawn sapling"
+    //% block="accept gift"
     export function acceptGift(){
         mobs.give(
             mobs.target(LOCAL_PLAYER),
