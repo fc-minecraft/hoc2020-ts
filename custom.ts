@@ -141,6 +141,11 @@ namespace hoc2020 {
     //% n.defl=2
     //% handlerStatement=1
     //% draggableParameters="reporter"
+}
+
+//%  block="HOC 2020 Cont" weight=200 color=#569138
+namespace hoc2020_different {
+
     export function customRepeatLoop(n: number, handler: () => void) {
         for (let i = 0; i < n; i++){
             handler();
