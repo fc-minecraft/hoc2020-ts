@@ -136,7 +136,7 @@ namespace hoc2020 {
 }
 
 //%  block="HOC 2020 Cont" weight=200 color=#569138
-namespace hoc2020_different {
+namespace hoc2020Different {
 
     /**
      * Custom repeat loop so we could define
