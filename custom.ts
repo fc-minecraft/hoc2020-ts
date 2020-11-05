@@ -17,7 +17,7 @@ const turns = [
 namespace hoc2020 {
 
     /**
-     * Agent Interact Forward
+     * Agent interact forward
      */
     //% block="toggle lever"
     export function flipLever() {
@@ -25,7 +25,7 @@ namespace hoc2020 {
     }
 
     /**
-     * Agent Place Iron Bars
+     * Agent place Iron Bars
      */
     //% block="place iron bars down"
     export function placeFence() {
@@ -34,7 +34,7 @@ namespace hoc2020 {
     }   
 
     /**
-     * Agent place soil
+     * Agent till soil
      */
     //% block="till and move forward %n times"
     //% n.defl=1 
@@ -73,7 +73,7 @@ namespace hoc2020 {
     }        
 
     /**
-     * Agent move forward with pause
+     * Lead ravager
      */
     //% block="lead ravager %n forward"
     //% n.defl=1 
@@ -125,7 +125,7 @@ namespace hoc2020 {
     }  
 
     /**
-     * Give player sapling
+     * Turn the Agent
      */
     //% block="turn agent %t"
     export function turnAgent(t: TurnDirection): void{
@@ -139,8 +139,7 @@ namespace hoc2020 {
 namespace hoc2020Different {
 
     /**
-     * Custom repeat loop so we could define
-     * default value
+     * Repeat code the specified number of times
      */
     //% block="repeat $n times"
     //% n.defl=2
