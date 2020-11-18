@@ -1,13 +1,13 @@
-{
-  "hoc2020.acceptGift": "Give player sapling",
-  "hoc2020.agentClimb": "Agent move up",
-  "hoc2020.flipLever": "Agent interact forward",
-  "hoc2020.leadRavager": "Lead ravager",
-  "hoc2020.moveAgent": "Agent move",
-  "hoc2020.placeFence": "Agent place Iron Bars",
-  "hoc2020.placePlanks": "Agent place wood down",
-  "hoc2020.placeRails": "Agent place rail down",
-  "hoc2020.tillSoil": "Agent till soil",
-  "hoc2020.turnAgent": "Turn the Agent",
-  "hoc2020Different.customRepeatLoop": "Repeat code the specified number of times"
+﻿{
+  "hoc2020.acceptGift": "플레이어에게 묘목 주기",
+  "hoc2020.agentClimb": "Agent 위로 이동하기",
+  "hoc2020.flipLever": "Agent 앞쪽 상호 작용",
+  "hoc2020.leadRavager": "파괴수 이끌기",
+  "hoc2020.moveAgent": "Agent 이동하기",
+  "hoc2020.placeFence": "Agent 철창 놓기",
+  "hoc2020.placePlanks": "Agent 아래에 목재 놓기",
+  "hoc2020.placeRails": "Agent 아래에 레일 놓기",
+  "hoc2020.tillSoil": "Agent 흙 고르기",
+  "hoc2020.turnAgent": "Agent 회전",
+  "hoc2020Different.customRepeatLoop": "코드를 지정한 횟수만큼 반복하기"
 }

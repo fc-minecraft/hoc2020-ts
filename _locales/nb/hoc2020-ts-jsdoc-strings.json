@@ -1,13 +1,13 @@
-{
-  "hoc2020.acceptGift": "Give player sapling",
-  "hoc2020.agentClimb": "Agent move up",
-  "hoc2020.flipLever": "Agent interact forward",
-  "hoc2020.leadRavager": "Lead ravager",
-  "hoc2020.moveAgent": "Agent move",
-  "hoc2020.placeFence": "Agent place Iron Bars",
-  "hoc2020.placePlanks": "Agent place wood down",
-  "hoc2020.placeRails": "Agent place rail down",
-  "hoc2020.tillSoil": "Agent till soil",
-  "hoc2020.turnAgent": "Turn the Agent",
-  "hoc2020Different.customRepeatLoop": "Repeat code the specified number of times"
+﻿{
+  "hoc2020.acceptGift": "Gi spiller ungtreet",
+  "hoc2020.agentClimb": "Agent flytt opp",
+  "hoc2020.flipLever": "Agent samhandle fremover",
+  "hoc2020.leadRavager": "Før olmt beist",
+  "hoc2020.moveAgent": "Agent flytt",
+  "hoc2020.placeFence": "Agent legg ned jernstenger",
+  "hoc2020.placePlanks": "Agent legg ned tre",
+  "hoc2020.placeRails": "Agent legg ned skinne",
+  "hoc2020.tillSoil": "Agent bearbeid jord",
+  "hoc2020.turnAgent": "Snu agenten",
+  "hoc2020Different.customRepeatLoop": "Gjenta kode angitt antall ganger"
 }
