@@ -1,0 +1,13 @@
+﻿{
+  "hoc2020.acceptGift": "プレイヤーに苗木を贈る",
+  "hoc2020.agentClimb": "Agent 登る",
+  "hoc2020.flipLever": "Agent 前方とインタラクト",
+  "hoc2020.leadRavager": "ラヴェジャーを誘導する",
+  "hoc2020.moveAgent": "Agent を移動させる",
+  "hoc2020.placeFence": "Agent 鉄格子を置く",
+  "hoc2020.placePlanks": "Agent 木材を置く",
+  "hoc2020.placeRails": "Agent レールを置く",
+  "hoc2020.tillSoil": "Agent 土を耕す",
+  "hoc2020.turnAgent": "Agent を回転させる",
+  "hoc2020Different.customRepeatLoop": "コードを指定した回数繰り返す"
+}
