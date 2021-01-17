@@ -1,5 +1,5 @@
-{
-  "hoc2020.acceptGift": "Donner pousse d'arbre au joueur",
+﻿{
+  "hoc2020.acceptGift": "Donner au joueur une pousse d'arbre",
   "hoc2020.agentClimb": "Agent monte",
   "hoc2020.flipLever": "Agent interagit devant lui",
   "hoc2020.leadRavager": "Diriger ravageur",
@@ -9,5 +9,5 @@
   "hoc2020.placeRails": "Agent place rail au sol",
   "hoc2020.tillSoil": "Agent laboure le sol",
   "hoc2020.turnAgent": "Tourner l'agent",
-  "hoc2020Different.customRepeatLoop": "Répéter le code le nombre de fois indiqué"
+  "hoc2020Different.customRepeatLoop": "Repeat code the specified number of times"
 }

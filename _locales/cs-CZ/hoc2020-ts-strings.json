@@ -1,0 +1,17 @@
+﻿{
+  "hoc2020.acceptGift|block": "přijmout dárek",
+  "hoc2020.agentClimb|block": "agent vyleze nahoru o %n",
+  "hoc2020.flipLever|block": "přepnout páku",
+  "hoc2020.leadRavager|block": "hlavní ničitel o %n vpřed",
+  "hoc2020.moveAgent|block": "agent posune %d o %n",
+  "hoc2020.placeFence|block": "položit železné mříže",
+  "hoc2020.placePlanks|block": "posunout se a umístit dřevo %nkrát",
+  "hoc2020.placeRails|block": "umístit kolejnici pod",
+  "hoc2020.tillSoil|block": "zorat a posunout se vpřed %nkrát",
+  "hoc2020.turnAgent|block": "agent se otočí %t",
+  "hoc2020Different.customRepeatLoop|block": "opakovat $nkrát",
+  "hoc2020Different|block": "Obsah pro Hodinu kódu 2020",
+  "hoc2020|block": "Hodina kódu 2020",
+  "{id:category}Hoc2020": "Hodina kódu 2020",
+  "{id:category}Hoc2020Different": "Hoc2020Different"
+}
