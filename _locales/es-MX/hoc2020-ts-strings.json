@@ -1,6 +1,6 @@
-{
+﻿{
   "hoc2020.acceptGift|block": "aceptar regalo",
-  "hoc2020.agentClimb|block": "agent %n escalar",
+  "hoc2020.agentClimb|block": "agent escalar %n",
   "hoc2020.flipLever|block": "activar palanca",
   "hoc2020.leadRavager|block": "guiar devastador %n adelante",
   "hoc2020.moveAgent|block": "mover agent %d por %n",
@@ -13,5 +13,5 @@
   "hoc2020Different|block": "Cont. HDC 2020",
   "hoc2020|block": "HDC 2020",
   "{id:category}Hoc2020": "HdC2020",
-  "{id:category}Hoc2020Different": "HdC2020Diferente"
+  "{id:category}Hoc2020Different": "Hoc2020Different"
 }
