@@ -1,4 +1,4 @@
-{
+﻿{
   "hoc2020.acceptGift": "Ge spelaren en trädplanta",
   "hoc2020.agentClimb": "Flytta agenten uppåt",
   "hoc2020.flipLever": "Låt agenten interagera framåt",
@@ -9,5 +9,5 @@
   "hoc2020.placeRails": "Låt agenten sätta ned räls",
   "hoc2020.tillSoil": "Låt agenten bearbeta jord",
   "hoc2020.turnAgent": "Vänd agenten",
-  "hoc2020Different.customRepeatLoop": "Upprepa koden det angivna antalet gånger"
+  "hoc2020Different.customRepeatLoop": "Repeat code the specified number of times"
 }
