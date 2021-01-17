@@ -1,4 +1,4 @@
-﻿{
+{
   "hoc2020.acceptGift|block": "accepter cadeau",
   "hoc2020.agentClimb|block": "agent grimpe de %n",
   "hoc2020.flipLever|block": "activer levier",
@@ -10,8 +10,8 @@
   "hoc2020.tillSoil|block": "labourer et avancer %n fois",
   "hoc2020.turnAgent|block": "tourner agent %t",
   "hoc2020Different.customRepeatLoop|block": "répéter $n fois",
-  "hoc2020Different|block": "Contenu HdC 2020",
-  "hoc2020|block": "HdC 2020",
-  "{id:category}Hoc2020": "HdC2020",
-  "{id:category}Hoc2020Different": "Hoc2020Different"
+  "hoc2020Different|block": "HOC 2020 Cont",
+  "hoc2020|block": "HEURE DE CODE 2020",
+  "{id:category}Hoc2020": "Hoc2020",
+  "{id:category}Hoc2020Different": "Hoc2020Différent"
 }
