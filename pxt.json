@@ -85,7 +85,7 @@
     "testFiles": [],
     "public": true,
     "targetVersions": {
-        "target": "1.6.3",
+        "target": "1.6.8",
         "targetId": "minecraft"
     },
     "supportedTargets": [
