@@ -9,5 +9,5 @@
   "hoc2020.placeRails": "Оставяне на релса от Agent",
   "hoc2020.tillSoil": "Прекопаване на почва от Agent",
   "hoc2020.turnAgent": "Обръщане на Agent",
-  "hoc2020Different.customRepeatLoop": "Повтаряне на кода за зададения брой пъти"
+  "hoc2020Different.customRepeatLoop": "Repeat code the specified number of times"
 }
