@@ -1,7 +1,7 @@
 {
   "hoc2020.acceptGift|block": "aceitar presente",
   "hoc2020.agentClimb|block": "agent sobe %n",
-  "hoc2020.flipLever|block": "alavanca de alternação",
+  "hoc2020.flipLever|block": "alternar alavanca",
   "hoc2020.leadRavager|block": "conduz o devastador %n para a frente",
   "hoc2020.moveAgent|block": "movimento do agent %d por %n",
   "hoc2020.placeFence|block": "coloca barras de ferro",

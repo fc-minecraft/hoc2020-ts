@@ -9,5 +9,5 @@
   "hoc2020.placeRails": "Agent 레일 배치",
   "hoc2020.tillSoil": "Agent 흙 고르기",
   "hoc2020.turnAgent": "Agent 회전",
-  "hoc2020Different.customRepeatLoop": "Repeat code the specified number of times"
+  "hoc2020Different.customRepeatLoop": "코드를 지정한 횟수만큼 반복합니다."
 }
