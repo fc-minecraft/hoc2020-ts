@@ -9,5 +9,6 @@
   "hoc2020.placeRails": "Agent 放下軌道",
   "hoc2020.tillSoil": "Agent 耕耘土壤",
   "hoc2020.turnAgent": "轉動 Agent",
-  "hoc2020Different.customRepeatLoop": "重複指定次數的代碼"
+  "hoc2020Different.customRepeatLoop": "重複指定次數的代碼",
+  "_hoc2020Different.customRepeatLoop.comment": "dev comments test"
 }

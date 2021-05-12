@@ -9,5 +9,6 @@
   "hoc2020.placeRails": "Agent, sín lehelyezése",
   "hoc2020.tillSoil": "Agent, a talaj megművelése",
   "hoc2020.turnAgent": "Agent elforgatása",
-  "hoc2020Different.customRepeatLoop": "Ismételd meg a kódot a megadott számú alkalommal"
+  "hoc2020Different.customRepeatLoop": "Ismételd meg a kódot a megadott számú alkalommal",
+  "_hoc2020Different.customRepeatLoop.comment": "dev comments test"
 }

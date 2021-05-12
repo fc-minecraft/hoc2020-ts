@@ -9,5 +9,6 @@
   "hoc2020.placeRails": "Posiziona il binario in basso con Agent",
   "hoc2020.tillSoil": "Ara terreno con Agent",
   "hoc2020.turnAgent": "Gira Agent",
-  "hoc2020Different.customRepeatLoop": "Ripeti il codice per il numero di volte specificato"
+  "hoc2020Different.customRepeatLoop": "Ripeti il codice per il numero di volte specificato",
+  "_hoc2020Different.customRepeatLoop.comment": "dev comments test"
 }

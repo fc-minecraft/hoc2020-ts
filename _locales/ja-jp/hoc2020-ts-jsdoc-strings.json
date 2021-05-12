@@ -9,5 +9,6 @@
   "hoc2020.placeRails": "Agent にレールを置かせる",
   "hoc2020.tillSoil": "Agent に土壌を耕せる",
   "hoc2020.turnAgent": "Agent を回転させる",
-  "hoc2020Different.customRepeatLoop": "コードを指定した回数繰り返す"
+  "hoc2020Different.customRepeatLoop": "コードを指定した回数繰り返す",
+  "_hoc2020Different.customRepeatLoop.comment": "dev comments test"
 }

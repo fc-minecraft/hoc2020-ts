@@ -9,5 +9,6 @@
   "hoc2020.placeRails": "Agent aseta raide alas",
   "hoc2020.tillSoil": "Agent muokkaa maa",
   "hoc2020.turnAgent": "Käännä agent",
-  "hoc2020Different.customRepeatLoop": "Toista koodi tarvittava määrä kertoja"
+  "hoc2020Different.customRepeatLoop": "Toista koodi tarvittava määrä kertoja",
+  "_hoc2020Different.customRepeatLoop.comment": "dev comments test"
 }

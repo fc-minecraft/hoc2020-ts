@@ -9,5 +9,6 @@
   "hoc2020.placeRails": "Agent coloca raíl",
   "hoc2020.tillSoil": "Agent labra la tierra",
   "hoc2020.turnAgent": "Girar al Agent",
-  "hoc2020Different.customRepeatLoop": "Repite el código la cantidad de veces indicada"
+  "hoc2020Different.customRepeatLoop": "Repite el código la cantidad de veces indicada",
+  "_hoc2020Different.customRepeatLoop.comment": "dev comments test"
 }

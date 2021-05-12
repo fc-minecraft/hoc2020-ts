@@ -9,5 +9,6 @@
   "hoc2020.placeRails": "代理机器人放下铁轨",
   "hoc2020.tillSoil": "代理机器人耕地",
   "hoc2020.turnAgent": "转向代理机器人",
-  "hoc2020Different.customRepeatLoop": "重复执行代码数次"
+  "hoc2020Different.customRepeatLoop": "重复执行代码数次",
+  "_hoc2020Different.customRepeatLoop.comment": "dev comments test"
 }

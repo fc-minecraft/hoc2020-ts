@@ -9,5 +9,6 @@
   "hoc2020.placeRails": "Agent - placer le rail en bas",
   "hoc2020.tillSoil": "Agent - faucher sol",
   "hoc2020.turnAgent": "Tourner agent",
-  "hoc2020Different.customRepeatLoop": "Répétez le code le nombre de fois indiqué"
+  "hoc2020Different.customRepeatLoop": "Répétez le code le nombre de fois indiqué",
+  "_hoc2020Different.customRepeatLoop.comment": "dev comments test"
 }
