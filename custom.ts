@@ -1,18 +1,3 @@
-// global variables
-const directions = [
-    FORWARD,
-    BACK,
-    LEFT,
-    RIGHT,
-    UP,
-    DOWN
-];
-
-const turns = [
-    LEFT_TURN,
-    RIGHT_TURN
-]
-
 //%  block="HOC 2020" weight=200 color=#d83b01
 namespace hoc2020 {
 
@@ -91,12 +76,8 @@ namespace hoc2020 {
     //% block="agent move %d by %n"
     //% n.defl=1 
     export function moveAgent(d: SixDirection, n: number): void{
-
         for (let i = 0; i < n; i++){
-
-            const direction = directions[d];
-
-            agent.move(direction,1)
+            agent.move(d,1)
         }        
     }     
 
@@ -129,9 +110,7 @@ namespace hoc2020 {
      */
     //% block="turn agent %t"
     export function turnAgent(t: TurnDirection): void{
-        const turn = turns[t];
-
-        agent.turn(turn);
+        agent.turn(t);
     }      
 }
 
