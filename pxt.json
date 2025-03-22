@@ -1,6 +1,6 @@
 {
     "name": "hoc2020-ts",
-    "version": "0.5.2",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -80,12 +80,13 @@
         "_locales/uk-UA/hoc2020-ts-jsdoc-strings.json",
         "_locales/uk-UA/hoc2020-ts-strings.json",
         "_locales/zh-TW/hoc2020-ts-jsdoc-strings.json",
-        "_locales/zh-TW/hoc2020-ts-strings.json"
+        "_locales/zh-TW/hoc2020-ts-strings.json",
+        "main.ts"
     ],
     "testFiles": [],
     "public": true,
     "targetVersions": {
-        "target": "1.6.8",
+        "target": "2.0.30",
         "targetId": "minecraft"
     },
     "supportedTargets": [
